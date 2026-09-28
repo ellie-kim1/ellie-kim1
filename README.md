@@ -1,10 +1,8 @@
 # Hi, I'm Ellie 👋
-Robotics + AI @ UofT
-I like building things that solve real problems.
 
-🎓 **Engineering Science** student at the **University of Toronto**, specializing in Robotics with a minor in Artificial Intelligence.
+🎓 I'm an **Engineering Science** student at the **University of Toronto**, specializing in Robotics with a minor in Artificial Intelligence.
 
-💻 Interested in **software engineering, AI, and building technology that solves real-world problems**.
+💻 I'm interested in **software engineering, AI, and building technology that solves real-world problems**.
 
 🧠 My experience spans multiple industries — from developing data analysis pipelines for **neuroscience research at UHN**, to building **AI and data workflows in wealth management at RBC**, to developing software for large-scale engineering environments.
 
